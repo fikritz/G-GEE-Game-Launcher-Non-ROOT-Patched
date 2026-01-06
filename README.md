@@ -1,7 +1,7 @@
 # G-GEE-Game-Launcher-non-root-Patched
 For Android 5+ try VMOS or VPhoneOS
 
-[Patched Games](https://drive.google.com/drive/folders/1DJGmHWiBufo8fngNbQJBkrXnyafCisJX?usp=sharing)
+[Some Games](https://drive.google.com/drive/folders/1DJGmHWiBufo8fngNbQJBkrXnyafCisJX?usp=sharing)
 
 Credits:
 
