@@ -1,5 +1,5 @@
-# G-GEE-Game-Launcher-non-root-Patched
-For Android 5+ try VMOS or VPhoneOS
+# G-GEE-Game-Launcher-Non-Root-Patched
+For Android 5+ Try VMOS Or VPhoneOS
 
 Recommendation: Set the date to 2013-1-1
 
